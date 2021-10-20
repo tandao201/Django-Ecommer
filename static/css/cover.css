@@ -1,0 +1,24 @@
+.section-header .fa-user-circle::before {
+    position: relative;
+    top: 15px;
+    left: 1px;
+    height: 100px;
+}
+
+.card-info {
+    display: none;
+}
+.section-header .fa-shopping-cart::before {
+    position: relative;
+    top: 13px;
+}
+
+.btn-primary.icon,
+.searchNav{
+    position: relative;
+    top: 8px;
+}
+
+.input.form-control.qatity {
+    padding: 0 10px;
+}

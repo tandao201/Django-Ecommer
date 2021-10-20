@@ -1,0 +1,41 @@
+.form-contact {
+    background: rgb(252,92,125);
+    background: linear-gradient(45deg, rgba(252,92,125,1) 0%, rgba(106,130,251,1) 100%);
+}
+
+.info-wrap h3 {
+    color: #fff; 
+}
+
+.info-wrap .dbox {
+    width: 100%;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 25px; 
+    font-size: 20px;
+}
+.info-wrap .dbox:last-child {
+    margin-bottom: 0; 
+}
+.info-wrap .dbox p {
+    margin-bottom: 0; 
+}
+.info-wrap .dbox p span {
+    font-weight: 600;
+    color: #fff; 
+}
+.info-wrap .dbox p a {
+      color: #fff; 
+}
+.info-wrap .dbox .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1); 
+}
+.info-wrap .dbox .icon span {
+    font-size: 20px;
+    color: #fff; 
+}
+.info-wrap .dbox .text {
+    width: calc(100% - 50px); 
+}
